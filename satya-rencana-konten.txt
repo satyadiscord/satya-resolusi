@@ -1,0 +1,7 @@
+SATYA RENCANA CONTENT
+
+- HTML
+- CSS
+- Javascript
+- Javascript freamwork React
+- CSS freamwork tailwind
