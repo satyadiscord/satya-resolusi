@@ -10,3 +10,4 @@ SATYA RENCANA CONTENT
     2. useEffect
     3. useReducer
 - CSS freamwork tailwind
+- C++
