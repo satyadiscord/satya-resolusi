@@ -4,4 +4,8 @@ SATYA RENCANA CONTENT
 - CSS
 - Javascript
 - Javascript freamwork React
+  * Hook
+    1. useState
+    2. useEffect
+    3. useReducer
 - CSS freamwork tailwind
