@@ -10,3 +10,6 @@ SATYA RENCANA CONTENT
     2. useEffect
     3. useReducer
 - CSS freamwork tailwind
+- C++
+  * Project sederhana
+    1. membuat program kasir
