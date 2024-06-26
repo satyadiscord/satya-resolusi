@@ -3,6 +3,7 @@ SATYA RENCANA CONTENT
 - HTML
 - CSS
 - Javascript
+- GITHUB dan GIT
 - Javascript freamwork React
   * Hook
     1. useState
