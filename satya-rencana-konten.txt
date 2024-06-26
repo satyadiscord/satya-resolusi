@@ -4,7 +4,9 @@ SATYA RENCANA CONTENT
 - CSS
 - Javascript
 - GITHUB dan GIT
-- Javascript freamwork React
+- PHP dasar
+  * Freamwork
+    1. Laravel
   * Hook
     1. useState
     2. useEffect
